@@ -7,3 +7,7 @@ variable "tenancy" {}
 variable "cidr_subnet" {}
 variable "vpc_id" {}
 variable "subnet_name" {}
+variable "IGW_Name" {}
+variable "gw_cidr" {}
+variable "route_name" {}
+variable "public_ip" {}
